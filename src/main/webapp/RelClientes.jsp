@@ -27,7 +27,7 @@ ArrayList<Cliente> lista = (ArrayList<Cliente>) request.getAttribute("clientes")
 		&nbsp;|&nbsp; 
 		<a href="CadAdvogado.jsp">Cadastro de Advogado</a>
 		&nbsp;|&nbsp;
-		<a href="CadCliente.jsp">Cadastro de Cliente</a>
+		<a href="CadCliente.jsp">Cadastro de Cliente</a>      
 	</nav>
 	<hr>
 
